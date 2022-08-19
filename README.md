@@ -123,6 +123,21 @@ In order to get the files from the Android phone, you can open Android Studio --
   </p>
 </div>
 
+So now, it is time to visualize the accelerometer and VIO information. To achieve this goal, we are going to use "mainAndroid.py" script. In that script you basically write the names of the files and execute the code. For example, figure 4 shows the 3D estimated tracjectory coming from the VIO output. Figure 5 shows the acceleration values in z-axis.
+<div align="center">
+    <img src="images/Figure4.png" alt="Logo" width="700" height="400">
+  </a>
+  <p align="center">
+    Figure 4
+  </p>
+</div>
+<div align="center">
+    <img src="images/Figure5.png" alt="Logo" width="700" height="400">
+  </a>
+  <p align="center">
+    Figure 5
+  </p>
+</div>
 <!-- LICENSE -->
 ## License
 
