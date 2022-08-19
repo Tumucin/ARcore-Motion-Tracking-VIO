@@ -82,7 +82,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+This project was made by using Android Studio Chipmunk | 2021.2.1 on Ubuntu 18.04 and tested with Huawei Mate 20 Lite (Android 10, API Level: 29).
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
