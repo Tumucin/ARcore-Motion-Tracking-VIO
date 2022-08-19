@@ -82,7 +82,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project was made by using Android Studio Chipmunk | 2021.2.1 on Ubuntu 18.04 and tested with Huawei Mate 20 Lite (Android 10, API Level: 29).
+This project was made by using Android Studio Chipmunk | 2021.2.1, ARcore 1.32.0 on Ubuntu 18.04 and tested with Huawei Mate 20 Lite (Android 10, API Level: 29).
+The goal of this project is to estimate the current 3 DoF position + 3 DoF orientation of the device using ARcore Motion Tracking(VIO) API and to save the IMU(accelerometer, gyroscope) and pose data to ".csv" file. 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
