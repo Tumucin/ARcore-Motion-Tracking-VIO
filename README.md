@@ -96,6 +96,35 @@ By aligning the pose of the virtual camera that renders your 3D content with the
 
 In this secion, I am going to descrice how we can use this mobile application on our Android devices to make everything clear. So that you can easily understand and use for your applications.
 
+
+When you first start the application, you will see some VIO states such as 6Dof pose, rate, timestamp and the time passed. And you will see "VIOArFileName" and "IMUFileName" EditText which you can write the names of the files in terms of encoded numbers. There is no information about IMU yet. And there will be 3 different buttons for recording, saving the datas and restarting the application.
+<div align="center">
+    <img src="images/Figure1.png" alt="Logo" width="700" height="400">
+  </a>
+  <p align="center">
+    Figure 1
+  </p>
+</div>
+Since the goal of this application is to save the IMU and VIO data, we should give the names of the files to be recorded to Edit Text. After that we click the "STARTRECORDING" button. After clicking the button, you will see a message says "...csv and ...csv are created!!!". And that button becomes disabled automatically as we can see from figure 2. At this stage, we can now see the information about Accelerometer and Gyroscope on the screen.
+
+<div align="center">
+    <img src="images/Figure2.png" alt="Logo" width="700" height="400">
+  </a>
+  <p align="center">
+    Figure 2
+  </p>
+</div>
+
+If you want to save the IMU and VIO data to a file, all you need to do is to press the "SAVEIMUVIO" button. You will see a message says " ...csv and ...csv are saved!!!"
+
+In order to get the files from the Android phone, you can open Android Studio -->Device File Explorer --> data/data/nameofTheProject/files as we can see from figure 3. 
+<div align="center">
+    <img src="images/Figure3.png" alt="Logo" width="700" height="400">
+  </a>
+  <p align="center">
+    Figure 2
+  </p>
+</div>
 <!-- USAGE EXAMPLES -->
 ## Usage
 
