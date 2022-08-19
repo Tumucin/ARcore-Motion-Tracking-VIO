@@ -105,7 +105,7 @@ When you first start the application, you will see some VIO states such as 6Dof 
     Figure 1
   </p>
 </div>
-Since the goal of this application is to save the IMU and VIO data, we should give the names of the files to be recorded to Edit Text. After that we click the "STARTRECORDING" button. After clicking the button, you will see a message says "...csv and ...csv are created!!!". And that button becomes disabled automatically as we can see from figure 2. At this stage, we can now see the information about Accelerometer and Gyroscope on the screen.
+Since the goal of this application is to save the IMU and VIO data, we should give the names of the files to be recorded to Edit Text. For example I wrote "301" to "VIOArFileName" and "IMUFileName". After that we click the "STARTRECORDING" button. After clicking the button, you will see a message says "...csv and ...csv are created!!!". And that button becomes disabled automatically as we can see from figure 2. At this stage, we can now see the information about Accelerometer and Gyroscope on the screen.
 
 <div align="center">
     <img src="images/Figure2.png" alt="Logo" width="700" height="400">
