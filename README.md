@@ -88,7 +88,7 @@ The goal of this project is to estimate the current 3 DoF position + 3 DoF orien
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/MotionTracking.png" alt="Logo" width="300" height="300">
+    <img src="images/MotionTracking.png" alt="Logo" width="700" height="400">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
