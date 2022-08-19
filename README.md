@@ -73,7 +73,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This project was made by using Android Studio Chipmunk | 2021.2.1, ARcore 1.32.0 on Ubuntu 18.04 and tested with Huawei Mate 20 Lite (Android 10, API Level: 29).
-The goal of this project is to estimate the current 3 DoF position + 3 DoF orientation of the device using ARcore Motion Tracking(VIO) API and to save the IMU(accelerometer, gyroscope) and pose data to ".csv" file. 
+The goal of this project is to estimate the current 3 DoF position + 3 DoF orientation of the device using ARcore Motion Tracking(VIO) API and to save the IMU(accelerometer, gyroscope) and pose(VIO output) data to ".csv" file. 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -96,36 +96,6 @@ By aligning the pose of the virtual camera that renders your 3D content with the
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
