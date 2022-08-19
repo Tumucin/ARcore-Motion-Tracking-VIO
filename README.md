@@ -87,19 +87,14 @@ The goal of this project is to estimate the current 3 DoF position + 3 DoF orien
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://developers.google.com/ar/develop/fundamentals#motion_tracking">
     <img src="images/MotionTracking.png" alt="Logo" width="700" height="400">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    Motion Tracking Visualization
   </p>
 </div>
 
